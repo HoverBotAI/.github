@@ -10,11 +10,17 @@
 <h3 align="center">Product-aware AI chat for ecommerce and marketplace teams.</h3>
 
 <p align="center">
-  <a href="https://www.hoverbot.ai"><img src="https://img.shields.io/badge/hoverbot.ai-8a5a28?style=flat-square&logoColor=faf7f0" alt="Website"></a>
-  <a href="https://www.hoverbot.ai/blog"><img src="https://img.shields.io/badge/Blog-2b2620?style=flat-square" alt="Blog"></a>
-  <a href="https://www.hoverbot.ai/trust-center"><img src="https://img.shields.io/badge/Trust_Center-2b2620?style=flat-square" alt="Trust Center"></a>
-  <a href="https://www.linkedin.com/company/hoverbotai/"><img src="https://img.shields.io/badge/LinkedIn-2b2620?style=flat-square&logo=linkedin&logoColor=faf7f0" alt="LinkedIn"></a>
-  <a href="https://x.com/hoverbotai"><img src="https://img.shields.io/badge/@hoverbotai-2b2620?style=flat-square&logo=x&logoColor=faf7f0" alt="X"></a>
+  <a href="https://www.hoverbot.ai"><b>Website</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.hoverbot.ai/blog"><b>Blog</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.hoverbot.ai/trust-center"><b>Trust Center</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.hoverbot.ai/press"><b>Press kit</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/company/hoverbotai/"><b>LinkedIn</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://x.com/hoverbotai"><b>X</b></a>
 </p>
 
 <br>

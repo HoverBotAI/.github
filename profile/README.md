@@ -25,7 +25,7 @@
 
 <br>
 
-HoverBot is an AI chatbot platform for customer support and lead capture. It grounds every answer in a company's own catalog, policies, and documentation using retrieval-augmented generation, masks personal data before it reaches the model, and hands conversations to human agents when confidence drops.
+HoverBot is an AI chatbot platform for customer support and lead capture. It grounds every answer in a company's own catalog, policies, and documentation using retrieval-augmented generation, masks personal data before it reaches the model, and hands conversations to human agents when confidence drops. HoverBot was founded in 2025, is bootstrapped, and is headquartered in Singapore.
 
 <table>
   <tr>
@@ -44,17 +44,19 @@ HoverBot is an AI chatbot platform for customer support and lead capture. It gro
       Confidence-based routing escalates to a human agent with the full conversation attached.
     </td>
     <td width="50%" valign="top">
-      <b>One setup, every channel</b><br>
-      One knowledge base serves the website widget and WhatsApp Business, and feeds your helpdesk and CRM over webhooks and a REST API.
+      <b>Fits your store</b><br>
+      Paste one install snippet on any site, or use the WordPress plugin. A connected Shopify or WooCommerce store lets the bot answer order status.
     </td>
   </tr>
 </table>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hoverbot_dashboard_dark.jpeg">
-    <img src="assets/hoverbot_dashboard.jpeg" alt="HoverBot dashboard with analytics and chatbot management" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hoverbot_dashboard_growth_dark_2026-10.jpg">
+    <img src="assets/hoverbot_dashboard_growth_2026-10.jpg" alt="HoverBot dashboard with a weekly message growth chart and week-over-week metrics for a sample store workspace" width="100%">
   </picture>
+  <br>
+  <sub>Sample store workspace. Traffic history is simulated for illustration.</sub>
 </p>
 
 ### Open source
@@ -67,11 +69,23 @@ HoverBot is an AI chatbot platform for customer support and lead capture. It gro
 
 |  |  |
 | --- | --- |
-| **Founded** | 2024 |
+| **Founded** | 2025 |
 | **Headquarters** | Singapore |
+| **Funding** | Bootstrapped |
+| **Startup programs** | Member of the Claude for Startups, AWS Activate and Microsoft for Startups programs. |
+| **Customers** | In production with customers under NDA. HoverBot names a customer only with their written consent; reference calls can be arranged on request. |
 | **Category** | AI chatbot management platform |
-| **Channels** | Website widget, WhatsApp Business |
+| **Channels** | Website widget |
 | **Compliance** | GDPR and PDPA controls active; SOC 2 Type II in progress ([Trust Center](https://www.hoverbot.ai/trust-center)) |
+
+### Find us elsewhere
+
+| Listing | What it shows |
+| --- | --- |
+| [WordPress.org plugin directory](https://wordpress.org/plugins/hoverbot/) | Plugin reviewed and approved by the WordPress.org plugin team, with public version history. |
+| [Claude Connectors Directory](https://claude.ai/directory/hoverbot) | HoverBot's MCP connector, listed by Anthropic. |
+| [e27](https://e27.co/startups/hoverbot/) | Startup profile on Southeast Asia's startup platform. |
+| [Crunchbase](https://www.crunchbase.com/organization/hoverbot) | Company profile: founded January 2025, no funding rounds. |
 
 ### Contact
 
